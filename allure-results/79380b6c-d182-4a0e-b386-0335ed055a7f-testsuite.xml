@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1589709079987' stop='1589709098522'>
+    <name>Login App</name>
+    <title>Login App</title>
+    <test-cases>
+        <test-case start='1589709079989' status='passed' stop='1589709085015'>
+            <name>should take user to dashboard with correct credentials</name>
+            <title>should take user to dashboard with correct credentials</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1589709085016' status='passed' stop='1589709089998'>
+            <name>user should show error message when incorrect credentials are entered</name>
+            <title>user should show error message when incorrect credentials are entered</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1589709089998' status='passed' stop='1589709094369'>
+            <name>should show require error message when username is not present</name>
+            <title>should show require error message when username is not present</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1589709094369' status='passed' stop='1589709098511'>
+            <name>should show require error message when password is not present</name>
+            <title>should show require error message when password is not present</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
